@@ -1,0 +1,10 @@
+C:\Users\Alisa\source\repos\OOP_lab5\OOP_lab5\bin\Debug\OOP_lab5.exe.config
+C:\Users\Alisa\source\repos\OOP_lab5\OOP_lab5\bin\Debug\OOP_lab5.exe
+C:\Users\Alisa\source\repos\OOP_lab5\OOP_lab5\bin\Debug\OOP_lab5.pdb
+C:\Users\Alisa\source\repos\OOP_lab5\OOP_lab5\obj\Debug\OOP_lab5.csprojAssemblyReference.cache
+C:\Users\Alisa\source\repos\OOP_lab5\OOP_lab5\obj\Debug\OOP_lab5.Properties.Resources.resources
+C:\Users\Alisa\source\repos\OOP_lab5\OOP_lab5\obj\Debug\OOP_lab5.csproj.GenerateResource.cache
+C:\Users\Alisa\source\repos\OOP_lab5\OOP_lab5\obj\Debug\OOP_lab5.csproj.CoreCompileInputs.cache
+C:\Users\Alisa\source\repos\OOP_lab5\OOP_lab5\obj\Debug\OOP_lab5.exe
+C:\Users\Alisa\source\repos\OOP_lab5\OOP_lab5\obj\Debug\OOP_lab5.pdb
+C:\Users\Alisa\source\repos\OOP_lab5\OOP_lab5\obj\Debug\lab6.MainForm.resources
